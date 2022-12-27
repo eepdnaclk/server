@@ -5,8 +5,8 @@ The server administrator is always happy to help you with any issues you may hav
 ## Main administrator
 
 - Lakshitha Ramanayake
-- Email: abc@gmail.com
-- Phone: +94712345678
+- Email: ramanayake.laksitha1@gmail.com
+- Phone: +94710665629
 - Location: Covid-AI Lab, Administration Building (2nd floor), Faculty of Engineering, University of Peradeniya
 
 ## Other administrators
