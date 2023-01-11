@@ -14,4 +14,4 @@ This is a high performance server primarily used for AI/ML related research acti
 
 
 * Private doc - [Management logs](https://docs.google.com/document/d/1KQQvQHTXUsq2LICX7oSW2EAkTSEX2J9v79jG0pilQVE/edit?usp=sharing)
-* Private doc - [List of user accounts](https://drive.google.com/drive/)
+* Private doc - [List of user accounts](https://docs.google.com/spreadsheets/d/1Rxvh1ioRFD-KXgWE4U1UdCPTqiQuW3UcW3CTedKsLwk/edit#gid=0)
