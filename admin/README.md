@@ -13,8 +13,7 @@ The server administrator is always happy to help you with any issues you may hav
 
 In addition to the main administrator, the following people are also authorized to help you with any issues you may have with the server.
 
-1. Neranjan (+94712345678, abc@gmail.com)
-2. 
+1. Neranjan (+94774350647,neranjansenarath95@gmail.com)
 
 
 
