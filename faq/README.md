@@ -7,4 +7,12 @@ TO DO: Fill this page by modifying the following content.
 ## Accessing the Server
 
 * How do I connect to the server ?
+  
+  You can use ssh login. Since ai4covid.ee.pdn.ac.lk is not a public IP you shoud either (a) use a computer in the Peradeniya network or (b) ssh to a public IP         server   like tesla.ce.pdn.ac.lk or aiken.ce.pdn.ac.lk and ssh to kepler.ce.pdn.ac.lk from there.
+
+## About the Server
+
+* What is the hardware configuration of this server?
+* What is the operating system of this server?
+* 
 
