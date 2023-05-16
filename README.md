@@ -5,7 +5,7 @@ This repository contains the information about the computing servers owned by th
 
 ## COVID-AI Server
 
-This is a high performance server primarily used for AI/ML related research activities. The server is housed by the [AI4COVID](https://covid.eng.pdn.ac.lk/) research group. The server is funded by the IDRC grant XXX.
+This is a high performance server primarily used for AI/ML related research activities. The server is housed by the [AI4COVID](https://covid.eng.pdn.ac.lk/) research group. The server is funded by the IDRC grant 109586-001.
 
 Server Resource Monitoring : https://cepdnaclk.github.io/maintenance/reports/server-gpu-util/plots/ee/
 
